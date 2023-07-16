@@ -1,7 +1,7 @@
 # MakingSimpleboard
 Making Simple board 
 
-Language:Java11
-Framework:Spring Boot 2.7.
-DBMS: MySQL8
+Language:Java11<br>
+Framework:Spring Boot 2.7.<br>
+DBMS: MySQL8<br>
 DB Library : JPA
